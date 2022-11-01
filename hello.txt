@@ -2,6 +2,9 @@ asdasdasdasdhelloheool
 SSSSSSSSSSSSSSSSSSSSSS
 BBBBBBBBBBBBBBBBBBBBBB
 asdasdsadasdasdasd
+<<<<<<< HEAD
 master test
+hot-fix test
+
 
 
